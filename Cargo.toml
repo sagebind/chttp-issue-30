@@ -1,0 +1,9 @@
+[package]
+name = "chttp-issue-30"
+version = "0.1.0"
+authors = ["Stephen M. Coakley <me@stephencoakley.com>"]
+edition = "2018"
+
+[dependencies]
+chttp = "0.4.3"
+env_logger = "0.6"
